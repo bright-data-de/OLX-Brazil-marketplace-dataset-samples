@@ -1,82 +1,82 @@
 # OLX Brazil Marketplace Ads Dataset Sample
 
-<h2>A sample dataset of 1,000 records</h2>
+<h2>Ein Beispieldatensatz mit 1.000 Datensätzen</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.de">
     <img src="https://github.com/luminati-io/OLX-Brazil-marketplace-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **OLX Brazil Marketplace Ads Dataset Sample** includes **1,000 records** and was extracted using the **Bright Data API**.
+Dieses **OLX Brazil Marketplace Ads Dataset Sample** umfasst **1.000 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `body` | The main content or description of the advertisement. |
-| `subject` | The title or headline of the advertisement. |
-| `Currency` | The currency in which the price is listed, typically BRL (Brazilian Real). |
-| `priceValue` | The monetary value or price of the item being advertised. |
-| `ProfessionalAnnouncement` | Indicates whether the ad is posted by a professional (true/false). |
-| `category` | The numerical ID representing the specific category of the ad. |
-| `parentCategoryName` | The parent category under which the ad is listed, e.g., 'Autos e peças'. |
-| `categoryName` | The specific category name of the advertisement, such as 'Carros, vans e utilitários'. |
-| `PublicationDate` | The date and time when the advertisement was published. |
-| `adReply` | The number of replies or responses the ad has received. |
-| `friendlyUrl` | The URL link to view the advertisement online. |
-| `Sellername` | The name of the seller or entity posting the ad. |
-| `Destaques` | Highlights or key features of the advertisement. |
-| `phone` | Contact phone number provided by the seller. |
-| `images` | URLs or links to images associated with the advertisement. |
-| `NumberOfImages` | The count of images included in the advertisement. |
-| `neighbourhood` | The neighborhood location where the item is available or listed. |
-| `municipality` | The municipality or city where the advertisement is posted. |
-| `zipcode` | The postal code associated with the location of the ad. |
-| `zone` | The zone or area classification within the municipality. |
-| `region` | The broader region or state where the advertisement is listed. |
-| `vehicleSpecificData` | Additional specifications related to vehicles, if applicable. |
-| `pubSpecificData` | Publication-specific data or metadata associated with the ad. |
-| `trackingSpecificData` | Data used for tracking ad performance and engagement metrics. |
-| `searchboxes` | Information about search filters or criteria applied. |
-| `breadcrumbUrls` | Navigational breadcrumb URLs to locate the ad within the site. |
-| `tags` | Keywords or tags associated with the advertisement. |
-| `featured` | Indicates if the ad is featured or highlighted (true/false). |
-| `vehicleTags` | Tags specific to vehicle advertisements. |
-| `description` | A detailed description or narrative accompanying the advertisement. |
-| `listTime` | The timestamp when the ad was initially listed. |
-| `isFeatured` | Boolean indicating if the ad is currently featured on the platform. |
-| `Marca` | The brand or make of the vehicle, if relevant. |
-| `TipoDeVeiculo` | The type or category of vehicle being advertised. |
-| `Quilometragem` | The mileage or kilometers driven, applicable to vehicles. |
-| `PotenciaDoMotor` | The engine power specification of the vehicle. |
-| `Combustível` | The type of fuel the vehicle uses. |
-| `ManufactureYear` | The year the vehicle or item was manufactured. |
-| `properties` | Additional property-related data relevant to the ad. |
-| `locations` | Geographical location data associated with the advertisement. |
-| `url` | The direct URL link to access the advertisement online. |
-| `adId` | A unique identifier assigned to each advertisement. |
-| `listId` | The listing ID associated with the advertisement entry. |
-| `seller_id` | The unique identifier for the seller or advertiser. |
-| `destaque` | Key highlights or features of the advertisement. |
-| `tipo_anunciante` | The type of advertiser, such as individual or company. |
+| `body` | Der Hauptinhalt oder die Beschreibung der Anzeige. |
+| `subject` | Der Titel oder die Überschrift der Anzeige. |
+| `Currency` | Die Währung, in der der Preis angegeben ist, typischerweise BRL (Brasilianischer Real). |
+| `priceValue` | Der Geldwert bzw. Preis des beworbenen Artikels. |
+| `ProfessionalAnnouncement` | Gibt an, ob die Anzeige von einem professionellen Anbieter eingestellt wurde (true/false). |
+| `category` | Die numerische ID, die die spezifische Kategorie der Anzeige repräsentiert. |
+| `parentCategoryName` | Die übergeordnete Kategorie, unter der die Anzeige gelistet ist, z. B. 'Autos e peças'. |
+| `categoryName` | Der spezifische Kategoriename der Anzeige, z. B. 'Carros, vans e utilitários'. |
+| `PublicationDate` | Datum und Uhrzeit, zu der die Anzeige veröffentlicht wurde. |
+| `adReply` | Die Anzahl der Antworten oder Rückmeldungen, die die Anzeige erhalten hat. |
+| `friendlyUrl` | Der URL-Link, um die Anzeige online anzusehen. |
+| `Sellername` | Der Name des Verkäufers oder der Entität, die die Anzeige veröffentlicht. |
+| `Destaques` | Highlights oder zentrale Merkmale der Anzeige. |
+| `phone` | Kontakttelefonnummer, die vom Verkäufer angegeben wurde. |
+| `images` | URLs oder Links zu Bildern, die mit der Anzeige verknüpft sind. |
+| `NumberOfImages` | Die Anzahl der in der Anzeige enthaltenen Bilder. |
+| `neighbourhood` | Der Stadtteil, in dem der Artikel verfügbar ist bzw. gelistet wird. |
+| `municipality` | Die Gemeinde oder Stadt, in der die Anzeige veröffentlicht wurde. |
+| `zipcode` | Die Postleitzahl, die mit dem Standort der Anzeige verknüpft ist. |
+| `zone` | Die Zonen- oder Bereichsklassifizierung innerhalb der Gemeinde/Stadt. |
+| `region` | Die übergeordnete Region oder der Bundesstaat, in dem die Anzeige gelistet ist. |
+| `vehicleSpecificData` | Zusätzliche Spezifikationen zu Fahrzeugen, falls zutreffend. |
+| `pubSpecificData` | Veröffentlichungsbezogene Daten oder Metadaten, die mit der Anzeige verbunden sind. |
+| `trackingSpecificData` | Daten zur Nachverfolgung der Anzeigenleistung und Engagement-Metriken. |
+| `searchboxes` | Informationen zu angewendeten Suchfiltern oder Kriterien. |
+| `breadcrumbUrls` | Navigations-Breadcrumb-URLs, um die Anzeige innerhalb der Website zu finden. |
+| `tags` | Schlüsselwörter oder Tags, die der Anzeige zugeordnet sind. |
+| `featured` | Gibt an, ob die Anzeige hervorgehoben ist (true/false). |
+| `vehicleTags` | Tags, die speziell für Fahrzeuganzeigen gelten. |
+| `description` | Eine detaillierte Beschreibung bzw. ein begleitender Text zur Anzeige. |
+| `listTime` | Der Zeitstempel, zu dem die Anzeige erstmals gelistet wurde. |
+| `isFeatured` | Boolean, der angibt, ob die Anzeige derzeit auf der Plattform hervorgehoben ist. |
+| `Marca` | Die Marke oder der Hersteller des Fahrzeugs, falls relevant. |
+| `TipoDeVeiculo` | Der Typ oder die Kategorie des beworbenen Fahrzeugs. |
+| `Quilometragem` | Der Kilometerstand bzw. die gefahrenen Kilometer, relevant für Fahrzeuge. |
+| `PotenciaDoMotor` | Die Motorleistungsangabe des Fahrzeugs. |
+| `Combustível` | Die Kraftstoffart, die das Fahrzeug verwendet. |
+| `ManufactureYear` | Das Jahr, in dem das Fahrzeug oder der Artikel hergestellt wurde. |
+| `properties` | Zusätzliche, für die Anzeige relevante Eigenschaftsdaten. |
+| `locations` | Geografische Standortdaten, die mit der Anzeige verknüpft sind. |
+| `url` | Der direkte URL-Link, um online auf die Anzeige zuzugreifen. |
+| `adId` | Eine eindeutige Kennung, die jeder Anzeige zugewiesen ist. |
+| `listId` | Die Listing-ID, die mit dem Anzeigeneintrag verknüpft ist. |
+| `seller_id` | Die eindeutige Kennung für den Verkäufer oder Inserenten. |
+| `destaque` | Zentrale Highlights oder Merkmale der Anzeige. |
+| `tipo_anunciante` | Der Typ des Inserenten, z. B. Privatperson oder Unternehmen. |
 
 
 ## Use Cases
 
-### 1. Market Trend Analysis
-Analyze ad data to identify emerging market trends in Brazil's online marketplace, aiding strategic business decisions.
+### 1. Markttrendanalyse
+Analysieren Sie Anzeigendaten, um neue Markttrends auf Brasiliens Online-Marktplatz zu identifizieren und strategische Geschäftsentscheidungen zu unterstützen.
 
-### 2. Competitive Intelligence
-Utilize the dataset to monitor competitor pricing and advertising strategies, gaining insights into market positioning.
+### 2. Wettbewerbsanalyse
+Nutzen Sie den Datensatz, um Preise und Werbestrategien von Wettbewerbern zu überwachen und Einblicke in die Marktpositionierung zu gewinnen.
 
-### 3. Consumer Behavior Insights
-Examine consumer engagement metrics and ad responses to understand preferences and optimize marketing strategies.
+### 3. Einblicke in das Konsumentenverhalten
+Untersuchen Sie Engagement-Metriken und Anzeigenantworten, um Präferenzen zu verstehen und Marketingstrategien zu optimieren.
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+Der Datensatz ist in mehreren Formaten verfügbar:
+- **CSV** (in diesem Sample enthalten)
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -96,8 +96,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+Datensätze können nach unterschiedlichen Zeitplänen aktualisiert werden:
+- **Once** (einmalige Lieferung)
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -106,14 +106,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+Erweitern Sie Ihren Datensatz mit zusätzlichen Datenpunkten basierend auf Ihren spezifischen Anforderungen. Kontaktieren Sie uns für benutzerdefinierte Enrichment-Optionen.
 
-**[Get the full OLX Brazil Marketplace Ads dataset](https://brightdata.com/products/datasets/olx)**
+**[Get the full OLX Brazil Marketplace Ads dataset](https://brightdata.de/products/datasets/olx)**
 
 ---
 
-## Free Access for Researchers and NGOs
+## Kostenloser Zugang für Forschende und NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Die Bright Initiative bietet akademischen Forschenden, NGOs und NPOs, die an Umwelt- und Sozialthemen arbeiten, kostenlosen Zugang zu **[Web Scraper APIs](https://brightdata.de/products/web-scraper)** und **[ready-to-use datasets](https://brightdata.de/products/datasets)**. 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+Beantragen Sie kostenlosen Zugang unter [brightinitiative.com](https://brightinitiative.com).
