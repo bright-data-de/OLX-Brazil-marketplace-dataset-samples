@@ -3,7 +3,7 @@
 <h2>Ein Beispieldatensatz mit 1.000 Datensätzen</h2>
 
 <a href="https://brightdata.de">
-    <img src="https://github.com/luminati-io/OLX-Brazil-marketplace-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-data-de/OLX-Brazil-marketplace-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 Dieses **OLX Brazil Marketplace Ads Dataset Sample** umfasst **1.000 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
